@@ -247,7 +247,7 @@ var namesOfIntegers = Dictionary<Int, String>()
 * when passed as an argument, doesn't make a copy(just passing a pointer to same instance)
 
 #### Which to use?
-* Usually choose class over struct. struct tends to be more for fundamental types.
+* Usually choose class over struct. struct tends to be more for fundamental types
 
 ----
 ### Function
@@ -441,10 +441,10 @@ TODO: implementing...
 
 ----
 ## Contributors
-* [@akirahrkw](https://github.com/akirahrkw).
+* [@akirahrkw](https://github.com/akirahrkw)
 
 ## History
-[CHANGELOG](./CHANGELOG.md).
+[CHANGELOG](./CHANGELOG.md)
 
 ## TODO
 * init
@@ -466,6 +466,6 @@ etc
 
 [Working with Cocoa Data Types](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/BuildingCocoaApps/WorkingWithCocoaDataTypes.html)
 
-[More Swift and Foundation Frameworks](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099).
+[More Swift and Foundation Frameworks](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
 
 [Access Control](https://developer.apple.com/library/mac/documentation/Swift/Conceptual/Swift_Programming_Language/AccessControl.html#//apple_ref/doc/uid/TP40014097-CH41-ID3)
